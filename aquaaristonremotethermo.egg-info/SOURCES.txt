@@ -1,0 +1,13 @@
+LICENSE.txt
+README.md
+setup.py
+aquaaristonremotethermo/__init__.py
+aquaaristonremotethermo/aristonaqua.py
+aquaaristonremotethermo.egg-info/PKG-INFO
+aquaaristonremotethermo.egg-info/SOURCES.txt
+aquaaristonremotethermo.egg-info/dependency_links.txt
+aquaaristonremotethermo.egg-info/requires.txt
+aquaaristonremotethermo.egg-info/top_level.txt
+test/test.py
+test/test2.py
+test/test3.py

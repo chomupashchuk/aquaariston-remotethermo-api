@@ -7,8 +7,8 @@ with open('HISTORY.md') as history_file:
     HISTORY = history_file.read()
 
 setup_args = dict(
-    name='aristonremotethermo',
-    version='1.0.44',
+    name='aquaaristonremotethermo',
+    version='1.0.46',
     description='Aqua Ariston NET Remotethermo integration',
     long_description_content_type="text/markdown",
     long_description=README + '\n\n' + HISTORY,

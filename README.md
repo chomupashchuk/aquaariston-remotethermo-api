@@ -1,4 +1,4 @@
-# Ariston NET remotethermo API
+# Aqua Ariston NET remotethermo API
 Thin integration is a side project which works only with 1 zone climate configured. It logs in to Ariston website (https://www.ariston-net.remotethermo.com) and fetches/sets data on that site.
 You are free to modify and distribute it. It is distributed 'as is' with no liability for possible damage.
 See also https://pypi.org/project/aquaaristonremotethermo/

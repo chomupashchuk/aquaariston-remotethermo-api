@@ -14,7 +14,7 @@ API connect to the website, which then connect via gateway to the boiler. The bu
 
 
 ## AquaAristonHandler was tested works with:
-  - Ariston Velis (NOTE THAT THERE ARE 2 TYPES OF VELIS. FOR VELIS WITH NUMBER OF SHOWERS IN APPLICATION USE TYPE `velis`, WHILE FOR VELIS WITH TEMPERATURE SETTING IN APPLICATION USE TYPE `Lydos`).
+  - Ariston Velis (NOTE THAT THERE ARE 2 TYPES OF VELIS. FOR VELIS WITH NUMBER OF SHOWERS IN APPLICATION USE TYPE `velis`, WHILE FOR VELIS WITH TEMPERATURE SETTING IN APPLICATION USE TYPE `lydos`).
   - Ariston Lydos
   - Ariston Lydos Hybrid
 

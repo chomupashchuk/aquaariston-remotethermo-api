@@ -1,3 +1,6 @@
+# Version "1.0.48"
+- Login fix
+
 # Version "1.0.46"
 - Structure cleanup
 

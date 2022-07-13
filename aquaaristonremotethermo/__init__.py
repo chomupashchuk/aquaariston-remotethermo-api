@@ -1,3 +1,3 @@
-from . import ariston
+from . import aristonaqua
 
-__all__ = ['ariston', 'aristonaqua']
+__all__ = ['aristonaqua']
